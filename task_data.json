@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Complete React Native tutorial",
+        "description": "Finish the tutorial on React Native and start building the project.",
+        "marked": false
+    },
+    {
+        "title": "Set up MongoDB database",
+        "description": "Create a MongoDB cluster and connect it to the backend.",
+        "marked": true
+    },
+    {
+        "title": "Design login page",
+        "description": "Create a login page UI using React Native.",
+        "marked": false
+    },
+    {
+        "title": "Implement user authentication",
+        "description": "Use JWT for secure user authentication in the app.",
+        "marked": true
+    },
+    {
+        "title": "Build task management feature",
+        "description": "Develop the task management functionality in the app.",
+        "marked": false
+    },
+    {
+        "title": "Test API endpoints",
+        "description": "Test all API endpoints for task creation, updating, and deletion.",
+        "marked": true
+    },
+    {
+        "title": "Write unit tests",
+        "description": "Ensure all functions are covered by unit tests.",
+        "marked": false
+    },
+    {
+        "title": "Optimize app performance",
+        "description": "Improve app performance by reducing unnecessary re-renders.",
+        "marked": false
+    },
+    {
+        "title": "Deploy app to production",
+        "description": "Deploy the React Native app to production using Expo.",
+        "marked": true
+    },
+    {
+        "title": "Document project",
+        "description": "Write project documentation for future reference.",
+        "marked": false
+    }
+]
